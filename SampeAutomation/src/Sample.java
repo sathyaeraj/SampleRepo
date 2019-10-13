@@ -32,6 +32,7 @@
 			// Back to Parent Window
 			driver.switchTo().window(parentid);
 			System.out.println(driver.getTitle());
+			System.out.println("Just a message")
 
 		}
 
